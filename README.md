@@ -10,3 +10,15 @@
 </div> 
 </div>
 </section>
+
+
+<section class="cards" id="services">
+<h2 class="title">Services</h2>
+<div class="content">
+<div class="card">
+<div class="icon">
+<i class="fa-solid fa-laptop-code"></i></div>
+<div class="info">
+<h3>Web application</h3>
+<p>A simple and easy to use web application</p> </div>
+</div>

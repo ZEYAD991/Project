@@ -47,6 +47,6 @@
 <i class="fa fa-phone"></i></div>
 <div class="info">
 <h3>Phone</h3>
-<p>+966-558127835</p>
+<p>+966-550682505</p>
 </div>
 </div>

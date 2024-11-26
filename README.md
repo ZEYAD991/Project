@@ -22,3 +22,31 @@
 <h3>Web application</h3>
 <p>A simple and easy to use web application</p> </div>
 </div>
+
+
+<section class="projects" id="projects"> <h2 class="title">projects</h2>
+<div class="content">
+<div class="project-card">
+<div class="project-image">
+<img src="image/soon.jpeg" alt="">
+</div>
+<div class "project inlo">
+<p class="project»c«t»gory">project info</p>
+<strong class "project title">
+<span>project title</span>
+<a href="" class="more-details">wore details</a>
+</strong>
+</div>
+</div>
+
+
+<section class="cards contact" id="contact"> <h2 class="title">lets work togother</h2>
+<div class="content">
+<div class="card">
+<div class="icon">
+<i class="fa fa-phone"></i></div>
+<div class="info">
+<h3>Phone</h3>
+<p>+966-558127835</p>
+</div>
+</div>
